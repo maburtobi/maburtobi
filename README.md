@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @maburtobi
-Nice to meet you.
+# 👋 Hi, I'm @maburtobi  
 
-- You can find several projects, shortcut for command, configuration examples, etc. here.
-- If you have some suggestions or -maybe- just want to say hello, kindly reach me.
+**DevOps | Automation Enthusiast | Open-Source Contributor**  
+*Making infrastructure repeatable, systems faster, and ops less painful.*
 
-<!---
-maburtobi/maburtobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+- 🔧 **Automating the stuff for more free time** – Shell scripts, Docker, CI/CD pipelines  
+- 🐳 **Containerization & Orchestration** – Docker, Kubernetes, OpenProject deployments  
+- ⚡ **Shortening operator workflows** with reusable tools & configs  
+- 🌱 Never stop to learning  
+
+---
+
+## 🛠️ Featured Repositories
+
+| Repo | Description | Tech |
+|------|-------------|------|
+| **[tools-and-scripts](https://github.com/maburtobi/tools-and-scripts)** | Everyday automation toolkit for sysadmins & devs to save hours | `Shell`, `Bash` |
+
+---
+
+## 📫 Let's Connect
+- 💬 Got a script idea? Need help automating something? **DM me!**  
+- 📧 Reach out via [GitHub Discussions](https://github.com/maburtobi/maburtobi/discussions)  
+- ☕ Buy me a coffee? *(coming soon)*
+
+---
+
+> “On-call rotation: Like musical chairs, but with pagers and no music.”  
+> – *maburtobi’s Midnight Symphony* 🎶📟
+
+---
