@@ -9,7 +9,7 @@
 - 🔧 **Automating the stuff for more free time** – Shell scripts, Docker, CI/CD pipelines  
 - 🐳 **Containerization & Orchestration** – Docker, Kubernetes, OpenProject deployments  
 - ⚡ **Shortening operator workflows** with reusable tools & configs  
-- 🌱 Never stop to learning  
+- 🌱 **Tuning and Refining agentic AI*** to amplify the manpower
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Let's Connect
-- 💬 Got a script idea? Need help automating something? **DM me!**  
+- 💬 Got an idea? Need help something? **DM me/send me an email!**  
 - 📧 Reach out via [GitHub Discussions](https://github.com/maburtobi/maburtobi/discussions)  
 - ☕ Buy me a coffee? *(coming soon)*
 
